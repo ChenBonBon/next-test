@@ -1,5 +1,5 @@
 import TeamCard from "@/components/card";
-import { TeamListItemModel } from "@/models/team";
+import { TeamListItemModel } from "@/types/team";
 
 async function getData() {
   const res = await fetch(

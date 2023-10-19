@@ -16,7 +16,7 @@ import { link as linkStyles } from "@nextui-org/theme";
 
 import { siteConfig } from "@/config/site";
 import NextLink from "next/link";
-import clsx from "clsx";
+import clsx from "classnames";
 
 import { ThemeSwitch } from "@/components/theme-switch";
 import {

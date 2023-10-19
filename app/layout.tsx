@@ -3,7 +3,7 @@ import { fontSans } from "@/config/fonts";
 import { siteConfig } from "@/config/site";
 import "@/styles/globals.css";
 import { Link } from "@nextui-org/link";
-import clsx from "clsx";
+import clsx from "classnames";
 import { Metadata } from "next";
 import { Providers } from "./providers";
 
